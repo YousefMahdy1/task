@@ -9,7 +9,7 @@ body {
     background-size: cover;
     animation-name: div1;
     animation-duration: 5s;
-    animation-delay: 1s;
+    animation-delay: 4s;
     position: absolute;
     border-radius: 30px;
     animation-fill-mode: forwards;
